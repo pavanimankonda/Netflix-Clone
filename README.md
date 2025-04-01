@@ -39,6 +39,8 @@ Netflix-Clone/
 ## Screenshots
 ![Project Screenshot](Screenshot.png)
 
+![Project Screenshot](Screenshot1.png)
+
 ## Future Improvements
 - Add a login/signup page.
 - Implement a working subscription model.
